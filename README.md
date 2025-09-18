@@ -30,4 +30,4 @@ https://disk.yandex.ru/d/dP_9pMwBeh1yeQ — полный исходный дам
 
 ## 2025 год
 
-https://disk.yandex.ru/d/7NBxGthNRmb0Cg (10.5GB zip → 20.4GB json) и `edg2024_tables.zip` (26MB). Без изменений.
+https://disk.yandex.ru/d/7NBxGthNRmb0Cg (10.5GB zip → 20.4GB json) и `edg2025_tables.zip` (26MB). Без изменений.
